@@ -11,5 +11,5 @@ dependencies:
   - conda-forge::six
   - conda-forge::tqdm
   - conda-forge::pandas
-  - pytorch::pytorch=0.4.1
+  - pytorch::pytorch=0.4
   - torchvision
