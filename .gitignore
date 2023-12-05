@@ -115,3 +115,7 @@ venv.bak/
 
 # Tensorboard
 runs/
+
+# IDE
+.idea
+*.iml
